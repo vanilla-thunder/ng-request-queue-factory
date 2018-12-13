@@ -1,0 +1,10 @@
+{
+  "name": "ng-request-queue-factory",
+  "version": "1.0.0",
+  "description": "",
+  "main": "http-queue.js",
+  "scripts": {},
+  "author": "Marat B.",
+  "license": "GPL-3.0",
+  "dependencies": {}
+}
